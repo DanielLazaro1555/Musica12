@@ -284,5 +284,126 @@
         "album": "Tribute (Deluxe)",
         "numero_de_pista": "15/15",
         "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274414_1.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Revolve [feat. Idris Elba]",
+        "artista": "John Newman feat. Idris Elba",
+        "album": "Revolve",
+        "numero_de_pista": "1/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_2.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "All My Heart",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "2/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_3.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Something Special",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "3/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_4.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Lights Down",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "4/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_5.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Come And Get It",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "5/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_6.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Never Give It Up",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "6/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_7.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Tiring Game [feat. Charlie Wilson]",
+        "artista": "John Newman feat. Charlie Wilson",
+        "album": "Revolve",
+        "numero_de_pista": "7/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_8.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Give You My Love",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "8/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_9.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "I'm Not Your Man",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "9/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_10.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "Killing Me",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "10/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274414_11.flac",
+        "descripcion": "198274414",
+        "imagen": "Albums/198274414.jpg",
+        "genero": "Pop/General",
+        "titulo": "We All Get Lonely",
+        "artista": "John Newman",
+        "album": "Revolve",
+        "numero_de_pista": "11/11",
+        "Año": "2015"
     }
 ]
