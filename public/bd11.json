@@ -999,5 +999,104 @@
         "album": "ARDIPITHECUS",
         "numero_de_pista": "15/15",
         "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274420_1.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Arthur's Theme (Best That You Can Do)",
+        "artista": "Christopher Cross",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "1/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_2.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Fool Me Again (Remastered)",
+        "artista": "Nicolette Larson",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "2/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_3.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Poor Rich Boy (Remastered)",
+        "artista": "Ambrosia",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "3/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_4.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "It's Only Love (Remastered)",
+        "artista": "Stephen Bishop",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "4/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_5.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Touch (Remastered)",
+        "artista": "Burt Bacharach",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "5/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_6.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "It's Only Love (Remastered)",
+        "artista": "Burt Bacharach",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "6/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_7.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Money (Remastered)",
+        "artista": "Burt Bacharach",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "7/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_8.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Moving Pictures (Remastered)",
+        "artista": "Burt Bacharach",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "8/9",
+        "Año": "1981"
+    },
+    {
+        "archivo_musica": "Albums/198274420_9.flac",
+        "descripcion": "198274420",
+        "imagen": "Albums/198274420.jpg",
+        "genero": "Pop",
+        "titulo": "Arthur's Theme [Best That You Can Do] (Remastered)",
+        "artista": "Burt Bacharach",
+        "album": "Arthur - The Album [Original Soundtrack]",
+        "numero_de_pista": "9/9",
+        "Año": "1981"
     }
 ]
