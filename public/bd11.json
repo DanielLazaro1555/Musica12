@@ -405,5 +405,49 @@
         "album": "Revolve",
         "numero_de_pista": "11/11",
         "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274415_1.flac",
+        "descripcion": "198274415",
+        "imagen": "Albums/198274415.jpg",
+        "genero": "Dance & DJ/General",
+        "titulo": "Reload (Radio Edit)",
+        "artista": "Sebastian Ingrosso, Tommy Trash & John Martin",
+        "album": "Reload (Remixes)",
+        "numero_de_pista": "1/4",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274415_2.flac",
+        "descripcion": "198274415",
+        "imagen": "Albums/198274415.jpg",
+        "genero": "Dance & DJ/General",
+        "titulo": "Reload (Extended Mix) [feat. John Martin]",
+        "artista": "Sebastian Ingrosso & Tommy Trash feat. John Martin",
+        "album": "Reload (Remixes)",
+        "numero_de_pista": "2/4",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274415_3.flac",
+        "descripcion": "198274415",
+        "imagen": "Albums/198274415.jpg",
+        "genero": "Dance & DJ/General",
+        "titulo": "Reload (Instrumental Mix)",
+        "artista": "Sebastian Ingrosso & Tommy Trash",
+        "album": "Reload (Remixes)",
+        "numero_de_pista": "3/4",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274415_4.flac",
+        "descripcion": "198274415",
+        "imagen": "Albums/198274415.jpg",
+        "genero": "Dance & DJ/General",
+        "titulo": "Reload (Tiedye Remix)",
+        "artista": "Sebastian Ingrosso, Tommy Trash & John Martin",
+        "album": "Reload (Remixes)",
+        "numero_de_pista": "4/4",
+        "Año": "2013"
     }
 ]
