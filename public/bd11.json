@@ -724,5 +724,115 @@
         "album": "again",
         "numero_de_pista": "4/4",
         "Año": "2009"
+    },
+    {
+        "archivo_musica": "Albums/198274418_1.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Circles Around the Sun",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "1/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_2.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Not Messin'",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "2/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_3.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Get Ready Boy",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "3/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_4.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Sign of the Times",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "4/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_5.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Josaphine",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "5/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_6.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Flag",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "6/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_7.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Come to Me",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "7/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_8.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Never or Now",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "8/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_9.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "We Hold a Gun",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "9/10",
+        "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274418_10.flac",
+        "descripcion": "198274418",
+        "imagen": "Albums/198274418.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Feels So Good",
+        "artista": "Dispatch",
+        "album": "Circles Around the Sun",
+        "numero_de_pista": "10/10",
+        "Año": "2012"
     }
 ]
