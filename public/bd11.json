@@ -680,5 +680,49 @@
         "album": "Home (10th Anniversary Edition) [Explicit]",
         "numero_de_pista": "21/21",
         "Año": "2023"
+    },
+    {
+        "archivo_musica": "Albums/198274417_1.flac",
+        "descripcion": "198274417",
+        "imagen": "Albums/198274417.jpg",
+        "genero": "International/Far East & Asia",
+        "titulo": "Again",
+        "artista": "YUI",
+        "album": "again",
+        "numero_de_pista": "1/4",
+        "Año": "2009"
+    },
+    {
+        "archivo_musica": "Albums/198274417_2.flac",
+        "descripcion": "198274417",
+        "imagen": "Albums/198274417.jpg",
+        "genero": "International/Far East & Asia",
+        "titulo": "Sea",
+        "artista": "YUI",
+        "album": "again",
+        "numero_de_pista": "2/4",
+        "Año": "2009"
+    },
+    {
+        "archivo_musica": "Albums/198274417_3.flac",
+        "descripcion": "198274417",
+        "imagen": "Albums/198274417.jpg",
+        "genero": "International/Far East & Asia",
+        "titulo": "Summer Song (Yui Acoustic Version)",
+        "artista": "YUI",
+        "album": "again",
+        "numero_de_pista": "3/4",
+        "Año": "2009"
+    },
+    {
+        "archivo_musica": "Albums/198274417_4.flac",
+        "descripcion": "198274417",
+        "imagen": "Albums/198274417.jpg",
+        "genero": "International/Far East & Asia",
+        "titulo": "Again (Instrumental)",
+        "artista": "YUI",
+        "album": "again",
+        "numero_de_pista": "4/4",
+        "Año": "2009"
     }
 ]
