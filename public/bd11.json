@@ -834,5 +834,170 @@
         "album": "Circles Around the Sun",
         "numero_de_pista": "10/10",
         "Año": "2012"
+    },
+    {
+        "archivo_musica": "Albums/198274419_1.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Organization & Classification [Explicit]",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "1/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_2.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Natives of the Windy Forest",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "2/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_3.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "dRuGz",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "3/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_4.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Cycles",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "4/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_5.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "F Q-­C #8",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "5/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_6.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Not So Different [feat. JABS]",
+        "artista": "WILLOW feat. Jabs",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "6/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_7.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "IDK",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "7/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_8.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "RANDOMSONG",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "8/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_9.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Marceline",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "9/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_10.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Marceline PT. 2",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "10/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_11.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "UR Town",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "11/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_12.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Star [feat. JABS]",
+        "artista": "WILLOW feat. Jabs",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "12/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_13.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Wait a Minute!",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "13/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_14.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Waves of Nature",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "14/15",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274419_15.flac",
+        "descripcion": "198274419",
+        "imagen": "Albums/198274419.jpg",
+        "genero": "Alternative Rock/General",
+        "titulo": "Why Don't You Cry",
+        "artista": "WILLOW",
+        "album": "ARDIPITHECUS",
+        "numero_de_pista": "15/15",
+        "Año": "2015"
     }
 ]
