@@ -119,5 +119,170 @@
         "album": "The Papercut Chronicles II [Clean]",
         "numero_de_pista": "11/11",
         "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274413_1.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Tribute",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "1/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_2.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Love Me Again",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "2/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_3.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Losing Sleep",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "3/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_4.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Easy",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "4/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_5.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Try",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "5/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_6.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Out Of My Head",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "6/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_7.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Cheating",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "7/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_8.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Running",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "8/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_9.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Gold Dust",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "9/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_10.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Goodnight Goodbye",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "10/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_11.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "All I Need Is You",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "11/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_12.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Down The Line",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "12/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_13.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Nothing",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "13/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_14.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Day One [Explicit]",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "14/15",
+        "Año": "2013"
+    },
+    {
+        "archivo_musica": "Albums/198274413_15.flac",
+        "descripcion": "198274413",
+        "imagen": "Albums/198274413.jpg",
+        "genero": "Pop/General",
+        "titulo": "Out Of My Head (Club Edit)",
+        "artista": "John Newman",
+        "album": "Tribute (Deluxe)",
+        "numero_de_pista": "15/15",
+        "Año": "2013"
     }
 ]
